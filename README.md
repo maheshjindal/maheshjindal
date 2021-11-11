@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am a master's in Data Science student at Columbia University, New York. I have 2.3 years of professional work experience in a fin-tech credit scoring analytical company named "FICO" as a Software and Data Platform Engineer in Data Science and Engineering team. I love solving research-oriented challenging analytical problems.I have been working on multiple domains comprising Big Data, Cloud Computing, Software Development and Machine Learning.
+
+
+- 🔭 I’m currently working on Graph Neural Networks and Few-Shot Learning.
+- 😄 Pronouns: He/Him/His
+- 💬 Ask me about: Big Data, Deep Learning, Cloud Computing, Software Development and Distributed Systems.
+
 <!--
 **maheshjindal/maheshjindal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
