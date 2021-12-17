@@ -5,7 +5,7 @@ I am a master's in Data Science student at Columbia University, New York. I have
 
 - 🔭 I’m currently working on Graph Neural Networks and Few-Shot Learning.
 - 😄 Pronouns: He/Him/His
-- 💬 Ask me about: Big Data, Deep Learning, Cloud Computing, Software Development and Distributed Systems.
+- 💬 Ask me about: Big Data, Machine Learning, Cloud Computing, Software Development, and Distributed Systems.
 
 <!--
 **maheshjindal/maheshjindal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
